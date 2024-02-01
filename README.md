@@ -1,1 +1,2 @@
-Project - landing page in files(html and css)
+Project - landing page in files(index.html
+                                  style.css)
